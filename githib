@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo "# sweden_AI_ML" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SridharRangaraj/sweden_AI_ML.git
+git push -u origin main
+
+https://github.com/SridharRangaraj/sweden_AI_ML.git
+
+ https://github.com/SridharRangaraj/sweden_AI_ML,git

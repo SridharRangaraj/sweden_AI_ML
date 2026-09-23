@@ -1,0 +1,4 @@
+1. Single Program
+    1.1 Data Train (preprocessing, reading)
+        model = LinearRegression()
+        model.fit
